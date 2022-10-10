@@ -39,6 +39,7 @@ height:100%;
 text-align:right;
 padding-right:8em;
 ${s(1170)}{
+
 padding-right:2em !important;
 }
 
