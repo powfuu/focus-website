@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2e3c744b.css",
+    "main.js": "/static/js/main.d4cfa76f.js",
+    "static/media/vid3.mp4": "/static/media/vid3.03d2f2f48dfd50164024.mp4",
+    "static/media/vid2.mp4": "/static/media/vid2.904e019e732603ee14c9.mp4",
+    "static/media/vid4.mp4": "/static/media/vid4.bdc0519f9f68f4f1d47a.mp4",
+    "static/media/vid1.mp4": "/static/media/vid1.7b2f0d36bab477fd6380.mp4",
+    "static/media/profilepreview.jpg": "/static/media/profilepreview.ac065e3f163e2549b312.jpg",
+    "static/media/profile3.jpeg": "/static/media/profile3.7a8e825e3138995de616.jpeg",
+    "static/media/evercode-logo.png": "/static/media/evercode-logo.55895bd5d5e1ae1446ce.png",
+    "static/media/profile2.jpeg": "/static/media/profile2.8aa2bc42307ecfeb820c.jpeg",
+    "static/media/profile1.jpeg": "/static/media/profile1.18a435e1cad4868c1840.jpeg",
+    "static/media/logo.png": "/static/media/logo.92227026dc69298caece.png",
+    "static/media/evercode-logo-white.png": "/static/media/evercode-logo-white.4d8d4b36098e3afc05d3.png",
+    "static/media/work.svg": "/static/media/work.5b0d192b626378a087d7ee3dc03b48cd.svg",
+    "static/media/videocall.svg": "/static/media/videocall.ab3f45d24ea63a5f063841eb2f45024e.svg",
+    "static/media/improvement.svg": "/static/media/improvement.922b9f49fe39d65729fee470898467b1.svg",
+    "static/media/emptystreet.svg": "/static/media/emptystreet.2b15621e17975fad86e97958053a8a45.svg",
+    "static/media/support.svg": "/static/media/support.d27727d1f9d6703e60b3f45d7c0384c4.svg",
+    "static/media/payment.svg": "/static/media/payment.d928dd9ec6737489c3b17130d051fecf.svg",
+    "static/media/location.svg": "/static/media/location.971f0eae4d81acb15223c7794b15cd4e.svg",
+    "static/media/goal.svg": "/static/media/goal.c4729d388c79b6e91a7350a2c63aaa69.svg",
+    "static/media/18content.svg": "/static/media/18content.054f636d9098d8497e89c04fdcaf1d55.svg",
+    "index.html": "/index.html",
+    "static/media/meeting.svg": "/static/media/meeting.7cee9b40cf94d9feb4b982c1e1788c05.svg",
+    "static/media/justtalking.svg": "/static/media/justtalking.ae3181f5803d1b371612a1f902feeb70.svg",
+    "main.2e3c744b.css.map": "/static/css/main.2e3c744b.css.map",
+    "main.d4cfa76f.js.map": "/static/js/main.d4cfa76f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e3c744b.css",
+    "static/js/main.d4cfa76f.js"
+  ]
+}
